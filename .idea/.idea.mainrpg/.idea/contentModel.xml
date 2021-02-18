@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_mainrpg.338914997.00" t="ExcludeRecursive" />
+    <e p="G:\mainrpg" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="AssetBundleTools" t="Include">
+            <e p="AssetBundleTool.cs" t="Include" />
+            <e p="AssetBundleUtil.cs" t="Include" />
+            <e p="ResNode.cs" t="Include" />
+          </e>
+          <e p="EditorManager.cs" t="Include" />
+        </e>
+        <e p="Standard Assets" t="Include">
+          <e p="Toon Shading" t="Include">
+            <e p="Sources" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Toony-Basic.shader" t="Include" />
+                <e p="Toony-BasicOutline.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Water (Basic)" t="Include">
+            <e p="Sources" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="WaterSimple.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="FX-Water Simple.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Topdown Kit" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AnimationManagerEditor.cs" t="Include" />
+            <e p="AnimationManagerEnemyEditor.cs" t="Include" />
+            <e p="EnemyControllerEditor.cs" t="Include" />
+            <e p="EnemyStatusEditor.cs" t="Include" />
+            <e p="HeroControllerEditor.cs" t="Include" />
+            <e p="ItemDataEditor.cs" t="Include" />
+            <e p="PlayerSkillEditor.cs" t="Include" />
+            <e p="PlayerStatusEditor.cs" t="Include" />
+          </e>
+          <e p="Effect" t="Include">
+            <e p="Effects_01" t="Include">
+              <e p="Prefebs" t="Include">
+                <e p="DestroyForTime.cs" t="Include" />
+                <e p="FollowTarget.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Effects_02" t="Include">
+              <e p="AnimationSpeed.cs" t="Include" />
+              <e p="ScrollUV.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Model" t="Include">
+            <e p="Model Character" t="Include">
+              <e p="Swordman" t="Include">
+                <e p="Swordman_Animation.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Model Enemy" t="Include">
+              <e p="Wolf" t="Include">
+                <e p="Wolf_Animation.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Script" t="Include">
+            <e p="CharacterCreation" t="Include">
+              <e p="ButtonOK.cs" t="Include" />
+              <e p="ButtonSelected.cs" t="Include" />
+              <e p="Entername.cs" t="Include" />
+              <e p="SelectCharacter.cs" t="Include" />
+            </e>
+            <e p="Enemy" t="Include">
+              <e p="AnimationManagerEnemy.cs" t="Include" />
+              <e p="DetectArea.cs" t="Include" />
+              <e p="DropItem.cs" t="Include" />
+              <e p="EnemyController.cs" t="Include" />
+              <e p="EnemyStatus.cs" t="Include" />
+            </e>
+            <e p="GUI" t="Include">
+              <e p="BottomBar.cs" t="Include" />
+              <e p="CommandMenu.cs" t="Include" />
+              <e p="DeadWindow.cs" t="Include" />
+              <e p="EnemyHP.cs" t="Include" />
+              <e p="HeroStatusBar.cs" t="Include" />
+              <e p="LogText.cs" t="Include" />
+              <e p="Minimap.cs" t="Include" />
+              <e p="MinimapSign.cs" t="Include" />
+              <e p="SaveWindow.cs" t="Include" />
+            </e>
+            <e p="Menu" t="Include">
+              <e p="GUI_Calculate.cs" t="Include" />
+              <e p="GUI_Menu.cs" t="Include" />
+              <e p="Item_Data.cs" t="Include" />
+              <e p="Item_Obj.cs" t="Include" />
+              <e p="LookAtCamera.cs" t="Include" />
+              <e p="NpcShop.cs" t="Include" />
+            </e>
+            <e p="Misc" t="Include">
+              <e p="GameSetting.cs" t="Include" />
+              <e p="MinimapSignSetup.cs" t="Include" />
+              <e p="SoundManager.cs" t="Include" />
+              <e p="Spawner.cs" t="Include" />
+              <e p="TextDamage.cs" t="Include" />
+              <e p="TextFilter.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="Camera" t="Include">
+                <e p="MinimapCamera.cs" t="Include" />
+                <e p="MouseOrbit.cs" t="Include" />
+              </e>
+              <e p="Controller" t="Include">
+                <e p="AnimationManager.cs" t="Include" />
+                <e p="AreaSkillCursor.cs" t="Include" />
+                <e p="HeroController.cs" t="Include" />
+                <e p="PlayerSkill.cs" t="Include" />
+                <e p="PlayerStatus.cs" t="Include" />
+                <e p="SkillArea.cs" t="Include" />
+                <e p="SpawnPointHero.cs" t="Include" />
+              </e>
+            </e>
+            <e p="SaveData" t="Include">
+              <e p="CharacterData.cs" t="Include" />
+            </e>
+            <e p="Title" t="Include">
+              <e p="AlphaText.cs" t="Include" />
+              <e p="ControlTitleScene.cs" t="Include" />
+              <e p="LoadGameButton.cs" t="Include" />
+              <e p="NewGameButton.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shader" t="Include">
+            <e p="MaskShader.shader" t="Include" />
+            <e p="Transparent_Outline.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="mainrpg.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 791807331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b156a54ceaad61362343fd5ef9726d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdab48188f9ad6025d3915e2d5c93c96
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49bdaeb519b4a864ebd230806984ea01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 966db186186ae426cb16db61294bba2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8535358ad167274bb669ac471d0d8a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fa0af788214049f2810c3ac1f37835a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61eaa939214d04a2b96d655e60116aa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4fa024c655054d81b090022033e5eda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97b13a9f01fcc9e4dad17b0412c9ad66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ada2d9bfb39eeb3479d549a525ced920, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Topdown Kit/Prefab/Enemy/Sample Monster/BabyWolf.prefab
+Dependencies: []
